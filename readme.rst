@@ -13,7 +13,7 @@ for a given task.
 *********
 Functionalities
 *********
-1. search box autocompletion 2. add course 3. comments 4. User profile updating 5. Image processing 6. Basic file uploading 7. mutil upload Intermediate: 1. Email verification 2. item searching
+
 -  1. Remember me at login in
 -  2. Register - email verification
 -  3. Register - captcha
