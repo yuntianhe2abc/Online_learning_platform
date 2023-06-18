@@ -20,7 +20,7 @@ Functionalities
 -  4. Item searching
 -  5. Search box autocompletion
 -  6. continously loading pages (courses list) as scrolling
--  7. forgot password Advanced 
+-  7. Forgot password 
 -  8. Rating courses
 -  9. Online payment: shopping cart 
 -  10. Add course
