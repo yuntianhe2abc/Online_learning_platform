@@ -10,6 +10,24 @@ interface and logical structure to access these libraries. CodeIgniter lets
 you creatively focus on your project by minimizing the amount of code needed
 for a given task.
 
+*********
+Functionalities
+*********
+1. search box autocompletion 2. add course 3. comments 4. User profile updating 5. Image processing 6. Basic file uploading 7. mutil upload Intermediate: 1. Email verification 2. item searching
+-  1. Remember me at login in
+-  2. Register - email verification
+-  3. Register - captcha
+-  4. Item searching
+-  5. Search box autocompletion
+-  6. continously loading pages (courses list) as scrolling
+-  7. forgot password Advanced 
+-  8. Rating courses
+-  9. Online payment: shopping cart 
+-  10. Add course
+-  11. Leave comments for courses
+-  12. User profile updating
+-  13. Image processing
+-  14. Multiple files uploading
 *******************
 Release Information
 *******************
@@ -49,22 +67,5 @@ License
 Please see the `license
 agreement <https://github.com/bcit-ci/CodeIgniter/blob/develop/user_guide_src/source/license.rst>`_.
 
-*********
-Resources
-*********
 
--  `User Guide <https://codeigniter.com/docs>`_
--  `Language File Translations <https://github.com/bcit-ci/codeigniter3-translations>`_
--  `Community Forums <http://forum.codeigniter.com/>`_
--  `Community Wiki <https://github.com/bcit-ci/CodeIgniter/wiki>`_
--  `Community Slack Channel <https://codeigniterchat.slack.com>`_
 
-Report security issues to our `Security Panel <mailto:security@codeigniter.com>`_
-or via our `page on HackerOne <https://hackerone.com/codeigniter>`_, thank you.
-
-***************
-Acknowledgement
-***************
-
-The CodeIgniter team would like to thank EllisLab, all the
-contributors to the CodeIgniter project and you, the CodeIgniter user.
