@@ -1,15 +1,14 @@
 ###################
-What is CodeIgniter
+Online learning platform
 ###################
 
-CodeIgniter is an Application Development Framework - a toolkit - for people
-who build web sites using PHP. Its goal is to enable you to develop projects
-much faster than you could if you were writing code from scratch, by providing
-a rich set of libraries for commonly needed tasks, as well as a simple
-interface and logical structure to access these libraries. CodeIgniter lets
-you creatively focus on your project by minimizing the amount of code needed
-for a given task.
+It is an online learning platform which is web-based virtual learning environment and 
+learning management system that allow educator to upload learning content and students/learner 
+to search, view, comment, purchase and download content. 
 
+*********
+CodeIgniter Version: 3.1.13.
+*********
 *********
 Functionalities
 *********
@@ -19,7 +18,7 @@ Functionalities
 -  3. Register - captcha
 -  4. Item searching
 -  5. Search box autocompletion
--  6. continously loading pages (courses list) as scrolling
+-  6. Continously loading pages (courses list) as scrolling
 -  7. Forgot password 
 -  8. Rating courses
 -  9. Online payment: shopping cart 
@@ -28,22 +27,7 @@ Functionalities
 -  12. User profile updating
 -  13. Image processing
 -  14. Multiple files uploading
-*******************
-Release Information
-*******************
 
-This repo contains in-development code for future releases. To download the
-latest stable release please visit the `CodeIgniter Downloads
-<https://codeigniter.com/download>`_ page.
-
-**************************
-Changelog and New Features
-**************************
-
-You can find a list of all changes for each release in the `user
-guide change log <https://github.com/bcit-ci/CodeIgniter/blob/develop/user_guide_src/source/changelog.rst>`_.
-
-*******************
 Server Requirements
 *******************
 
@@ -57,15 +41,7 @@ issues, as well as missing features.
 Installation
 ************
 
-Please see the `installation section <https://codeigniter.com/user_guide/installation/index.html>`_
-of the CodeIgniter User Guide.
-
-*******
-License
-*******
-
-Please see the `license
-agreement <https://github.com/bcit-ci/CodeIgniter/blob/develop/user_guide_src/source/license.rst>`_.
+I will record a demonstration vedio later.
 
 
 
