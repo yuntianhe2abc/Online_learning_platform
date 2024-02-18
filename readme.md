@@ -38,10 +38,9 @@ such old versions of PHP, because of potential security and performance
 issues, as well as missing features.
 
 ************
-Installation
+Grade
 ************
-
-I will record a demonstration vedio later.
+![Alt ssss](https://github.com/yuntianhe2abc/Online_learning_platform/blob/main/assets/project-grade.jpg)
 
 
 
